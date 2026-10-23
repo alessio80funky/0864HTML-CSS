@@ -1,0 +1,87 @@
+h1 {
+  color: red;
+ 
+}
+
+p{
+    color: gray;
+}
+
+.blue{
+    color:rgb(71, 71, 163);
+}
+
+#midori{
+    color: rgba(69, 202, 21, 0.3);
+}
+
+.color{
+    color: #8974d2;
+}
+
+.text{
+    color: red;
+  
+    font-family: serif;
+    text-decoration: underline;
+}
+
+.card{
+    background-color: aquamarine;
+    border-radius: 15px;
+    padding: 40px;
+    margin:40px 10px;
+    border: 10px double #2563eb;
+     box-shadow: 12px 12px 12px 0px
+    rgba(254, 0, 0, 0.563) inset;
+}
+.card2{
+    background-color: pink;
+    border-radius: 15px;
+    padding: 10px 20px 30px 40px;
+    border: 10px ridge  #eb2525;
+    box-shadow: 10px 40px 
+    rgba(8, 0, 254, 0.563) ;
+    margin-bottom: 100px;
+}
+
+table{
+    background-color: pink;
+    border: 3px ridge  #060606;
+}
+
+.main{
+    background-color: gray;
+}
+
+table th{
+      border: 3px solid #060606;
+  
+}
+
+table td{
+      border: 3px solid #060606;
+  
+}
+
+a{
+    color: red;
+}
+
+a:visited{
+    color: cadetblue;
+}
+
+.card:hover{
+    background-color: #8974d2;
+}
+
+.card2:hover{
+    background-color: #8974d2;
+}
+
+
+span{
+    display: block;
+}
+

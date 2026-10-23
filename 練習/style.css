@@ -1,0 +1,25 @@
+.text{
+    color: red;
+}
+
+.card1{
+    width: 300px;
+    background-color: white;
+    padding:40px;
+    margin-bottom: 10px;
+}
+.card2{
+    width: 300px;
+    background-color: white;
+    padding:40px;
+    margin-bottom: 10px;
+}
+.card3{
+    width: 300px;
+    background-color: white;
+    padding:40px;
+}
+
+body{
+    background-color: burlywood;
+}
